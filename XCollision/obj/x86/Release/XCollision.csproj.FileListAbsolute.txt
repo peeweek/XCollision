@@ -1,9 +1,0 @@
-F:\DEV\XCollision\XCollision\XCollision\bin\x86\Release\Content\Debug.xnb
-F:\DEV\XCollision\XCollision\XCollision\bin\x86\Release\XCollision.exe
-F:\DEV\XCollision\XCollision\XCollision\bin\x86\Release\XCollision.pdb
-F:\DEV\XCollision\XCollision\XCollision\bin\x86\Release\XCollisionLib.dll
-F:\DEV\XCollision\XCollision\XCollision\bin\x86\Release\XCollisionLib.pdb
-F:\DEV\XCollision\XCollision\XCollision\obj\x86\Release\XCollision.csprojResolveAssemblyReference.cache
-F:\DEV\XCollision\XCollision\XCollision\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
-F:\DEV\XCollision\XCollision\XCollision\obj\x86\Release\XCollision.exe
-F:\DEV\XCollision\XCollision\XCollision\obj\x86\Release\XCollision.pdb

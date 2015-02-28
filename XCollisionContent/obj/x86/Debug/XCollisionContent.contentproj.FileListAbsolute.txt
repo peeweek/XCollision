@@ -1,2 +1,0 @@
-E:\dev\XCollision\XCollision\XCollisionContent\obj\x86\Debug\XCollisionContent.contentprojResolveAssemblyReference.cache
-F:\DEV\XCollision\XCollision\XCollisionContent\obj\x86\Debug\XCollisionContent.contentprojResolveAssemblyReference.cache
